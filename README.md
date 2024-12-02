@@ -26,8 +26,9 @@ You can find our game on the official Global Game Jam website here: [Varyete on 
 [<img src="https://github.com/demirhany.png" width="60px;"/>](https://github.com/demirhany)
 [<img src="https://github.com/senemozcan.png" width="60px;"/>](https://github.com/senemozcan)
 [<img src="https://github.com/alminadadak.png" width="60px;"/>](https://github.com/alminadadak)
+[<img src="" alt="Şehide Azra Dadak" width="60px;"/>]()
 
 ## Screenshots
-![Screenshot 2024-12-02 170058](https://github.com/user-attachments/assets/5e61fd73-9030-477d-8fd1-00ca769e1bfa)
+![Screenshot 2024-12-02 170850](https://github.com/user-attachments/assets/afebe48d-58a3-4bae-96c0-cd079ac6bc9f)
 ![Screenshot 2024-12-02 170451](https://github.com/user-attachments/assets/2536ad8c-b635-4658-adcc-d7c41b38929a)
 ![Screenshot 2024-12-02 170400](https://github.com/user-attachments/assets/2e9e3688-ff4f-45b5-a18d-b997d7d360b6)
