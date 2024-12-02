@@ -21,6 +21,12 @@
 ## Game Link
 You can find our game on the official Global Game Jam website here: [Varyete on Global Game Jam](https://globalgamejam.org/games/2024/varyete-game-0)
 
+## Contributors
+[<img src="https://github.com/ahmetcaggn.png" width="60px;"/>](https://github.com/ahmetcaggn)
+[<img src="https://github.com/demirhany.png" width="60px;"/>](https://github.com/demirhany)
+[<img src="https://github.com/senemozcan.png" width="60px;"/>](https://github.com/senemozcan)
+[<img src="https://github.com/alminadadak.png" width="60px;"/>](https://github.com/alminadadak)
+
 ## Screenshots
 ![Screenshot 2024-12-02 170058](https://github.com/user-attachments/assets/5e61fd73-9030-477d-8fd1-00ca769e1bfa)
 ![Screenshot 2024-12-02 170451](https://github.com/user-attachments/assets/2536ad8c-b635-4658-adcc-d7c41b38929a)
